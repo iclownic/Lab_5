@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Yr6I1ECtZT09alxszNpNL7toMpgldYDVNZ02tuulGU2UJLod02GP0DYZRISSmd9FriMF3GTiyYLMlayIumX5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iclownic\\Documents\\Visual Studio 2022\\Project\\IK_33_2term\\Lab_5\\Task_1\\Task_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iclownic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\iclownic\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
